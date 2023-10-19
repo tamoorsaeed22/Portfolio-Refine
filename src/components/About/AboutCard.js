@@ -21,9 +21,6 @@ function AboutCard() {
             I am passionate about building web applications
             and solving complex problems
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
-            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
