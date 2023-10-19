@@ -13,7 +13,7 @@
 - [Tamoor_Portfolio](#Tamoor-portfolio)
 - [Portfolio: setup and mobile first \& desktop version](#portfolio-setup-and-mobile-first--desktop-version)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Shalini_Portfolio\] ](#-shalini_portfolio-)
+- [📖 \[Tamoor_Portfolio\] ](#-tamoor_portfolio-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -46,9 +46,10 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://html.org/">HTML</a></li>
-    <li><a href="https://html.org/">CSS</a></li>
-    <li><a href="https://html.org/">JASCRIPT</a></li>
+    <li><a href="https://html.org/">React.js</a></li>
+    <li><a href="https://html.org/">CSS3</a></li>
+    <li><a href="https://html.org/">Node.js</a></li>
+    <li><a href="https://html.org/">VsCode</a></li>
   </ul>
 </details>
 
