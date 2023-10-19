@@ -65,6 +65,48 @@ function Home2() {
               </i>
             </p>
 
+            {/* Contact Form */}
+            <p className="contact">Contact Me</p>
+            <form action="https://formspree.io/f/xwkjovpk" method="POST">
+              <div className="input-holder">
+                <label htmlFor="name">Write your name</label>
+                <input
+                  type="text"
+                  placeholder="Write your name"
+                  required
+                  maxLength="30"
+                  name="inputName"
+                  id="name" // Make sure the 'id' matches the 'htmlFor'
+                  className="koko"
+                />
+              </div>
+              <div className="input-holder">
+                <label htmlFor="email">Write your email</label>
+                <input
+                  id="email" // Make sure the 'id' matches the 'htmlFor'
+                  type="email"
+                  placeholder="Write your email here"
+                  required
+                  name="email"
+                  className="koko"
+                />
+              </div>
+              <div className="input-holder">
+                <label htmlFor="message">Write your message</label>
+                <textarea
+                  placeholder="Write your message here"
+                  rows="10"
+                  id="message" // Make sure the 'id' matches the 'htmlFor'
+                  required
+                  name="message"
+                  maxLength="500"
+                  className="koko"
+                />
+                <p className="msg" />
+              </div>
+              <button className="submit" type="submit">Get In Touch</button>
+              <div className="black-line" />
+            </form>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>

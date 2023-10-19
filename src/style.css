@@ -415,6 +415,61 @@ button:focus {
   color: #700c86 !important;
 }
 
+.contact {
+  font-size: 2em;
+  color: #d248fc; /* Change the color to your preference */
+  margin-top: 70px;
+}
+
+.input-holder {
+  margin: 10px 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #bd18ff;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #261a5c; /* Change the border color to your preference */
+  border-radius: 4px;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.submit {
+  background-color: #c60dff; /* Change the background color to your preference */
+  color: #261a5c;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #0056b3; /* Change the hover background color to your preference */
+}
+
+.black-line {
+  height: 1px;
+  background-color: #000; /* Change the line color to your preference */
+  margin: 20px 0;
+}
+
+.msg {
+  color: #c00; /* Change the message text color to your preference */
+}
+
+
 /* --------- */
 
 /* Footer */
