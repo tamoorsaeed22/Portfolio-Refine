@@ -134,6 +134,10 @@ To run tests, run the following command:
 ```sh
   npx stylelint "**/*.{css,scss}"
 ```
+### Mobile friendly test:
+
+![Screenshot (80)](https://github.com/tamoorsaeed22/Portfolio-Refine/assets/115831124/c492fe46-c9f1-4ca2-92d7-ac0033c19e72)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
